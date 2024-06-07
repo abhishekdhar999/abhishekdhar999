@@ -1,6 +1,6 @@
 <img align="center" height="300" width="1000" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="">
     <h1 align="center">Hi 👋, I'm Abhishek Dhar</h1>
-<h3 align="center">I am an Undergraduate Student at Chandigarh Engineering College..</h3>
+<h3 align="center">I am an IT Undergraduate Student at Chandigarh Engineering College..</h3>
 <p align="center"> Let's connect and explore the ever-evolving world of technology together! Feel free to reach out for discussions, collaborations, or just a friendly chat.</p>
 <img align="right" height="350" width="430"  src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="">
 
