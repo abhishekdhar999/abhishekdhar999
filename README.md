@@ -4,11 +4,11 @@
 <p align="center"> Let's connect and explore the ever-evolving world of technology together! Feel free to reach out for discussions, collaborations, or just a friendly chat.</p>
 <img align="right" height="350" width="430"  src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="">
 
-- 🔭 I’m currently working on **Prompt Engineering**
+- 🔭 I’m currently working on **Large Language Model**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Javascript/java/react**
+- 💬 Ask me about **Javascript/java/react/**
 
 - 📫 How to reach me **dhar.abhishek999@gmail.com**
 
