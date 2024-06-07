@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Javascript/java/react/**
+- 💬 Ask me about **Javascript/java/react/DataStructure & Algorithms**
 
 - 📫 How to reach me **dhar.abhishek999@gmail.com**
 
